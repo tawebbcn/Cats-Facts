@@ -36,7 +36,7 @@ It should return an object with 3 cat facts inside. And the good thing is that w
 
 But first things first; Before adding multiple cats, our UX mates have suggested that we should let the user know that we are going to add that many number of facts, so could you implement a functionality that makes the text of the add button and remove button change their text to: "Add X cat facts" and "Remove X cat facts" where X is the number that the user selects in the input. 
 
-#### Itineration 4.Bonus:
+#### Itineration 4.2:
 
 Now it's time for the party! let give the user the chance of adding multiple cat facts!! 
 
@@ -44,14 +44,14 @@ Please, don't use a for loop to call the cat facts multiple time, since making t
 
 Finally, we should give the option to the user to remove multiple elements from the list. Please, can you add this functionality to the app?
 
-#### Itineration 4.Bonus.Bonus:
+#### Itineration 4.2.Bonus:
 
 Adding multiple cat facts is awesome, but we don't want them to be repeated. Can you make sure we don't add any repeated fact to the list??
 
 
 ## Time to practice!
 
-Thank you very much to take the time to make this world a little bit better and more cat-friendly! You can check the answer (except for the itineration 4.Bonus.Bonus) in the folder named solution. 
+Thank you very much to take the time to make this world a little bit better and more cat-friendly! You can check the answer (except for the itineration 4.2.Bonus) in the folder named solution. 
 
-And please, do not forget to play with the code! :rocket: 
+And please, do not forget to play with the code! :rocket: :dizzi:
 
