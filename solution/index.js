@@ -3,7 +3,7 @@ const factsArray = ["70% of your cat's life is spent asleep.", "The cat has 500 
 
 // ITERACIÓN 1: Añade las dos curiosidades de la array para que se despliegen en la lista del HTML.
 
-const list = document.getElementById("cats-facts-list");
+const list = document.getElementById("cat-facts-list");
 
 function loadFacts(){
     
