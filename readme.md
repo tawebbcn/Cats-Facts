@@ -1,4 +1,4 @@
-# CATS FACTS
+# CAT FACTS
 
 Who doesn't like cats uh? However we know very little about them, for example, do you know that they spent 70% of their lives sleeping??? 
 
