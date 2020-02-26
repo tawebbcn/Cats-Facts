@@ -34,7 +34,7 @@ So in order to do it, our awesome API has a method to return several cat facts. 
 
 It should return an object with 3 cat facts inside. And the good thing is that we can change that 3 for any number!! Even 1.000!!!
 
-But first things first; Before adding multiple cats, our UX mates have suggested that we should let the user know that we are going to add that many number of facts, so could you implement a functionality that makes the text of the add button and remove button change their text to: "Add X cat facts" and "Remove X cat facts" where X is the number that the user selects in the input. (Hint: the onClick method won't be enough, you can check more DOM events at [here](https://www.w3schools.com/jsref/dom_obj_event.asp))
+But first things first; Before adding multiple cats, our UX mates have suggested that we should let the user know that we are going to add that many number of facts, so could you implement a functionality that makes the text of the add button and remove button change their text to: "Add X cat facts" and "Remove X cat facts" where X is the number that the user selects in the input. (Hint: the onClick method won't be enough, maybe you need to check more [DOM events](https://www.w3schools.com/jsref/dom_obj_event.asp))
 
 #### Itineration 4.2:
 
