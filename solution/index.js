@@ -76,4 +76,5 @@ function changeButtonText(){
 }
 
 const input = document.getElementById("number-input")
-input.addEventListener("change", changeButtonText)
+//input.addEventListener("change", changeButtonText)
+input.onchange = changeButtonText
