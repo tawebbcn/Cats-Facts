@@ -40,7 +40,7 @@ But first things first; Before adding multiple cats, our UX mates have suggested
 
 Now it's time for the party! let give the user the chance of adding multiple cat facts!! 
 
-Please, don't use a for loop to call the cat facts multiple time, since making that many calls will take a lot of extra time. You should better use the link before (```'https://catfact.ninja/facts/?limit=3'```) to make only one API call each time the user want to add more cat facts. 
+Please, don't use a for loop to call the cat facts multiple time, since making multiple calls will take a lot of extra time. You should better use the link before (```'https://catfact.ninja/facts/?limit=3'```) to make only one API call each time the user want to add more cat facts. 
 
 Finally, we should give the option to the user to remove multiple elements from the list. Please, can you add this functionality to the app?
 
