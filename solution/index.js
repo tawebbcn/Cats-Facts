@@ -44,7 +44,12 @@ async function addFacts (){
         let json= await response.json();
         let fact= json.fact
 
-        factsArray.push(fact)
+        if (!factsArray.includes(fact)){
+            factsArray.push(fact)
+        }
+        else {
+            addFacts()
+        }
     }
 
     if(input.value){

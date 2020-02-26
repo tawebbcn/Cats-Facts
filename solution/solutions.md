@@ -71,6 +71,32 @@ const addButton = document.getElementById("add-button")
 addButton.addEventListener("click", addFacts)
 ```
 
+### ITERACIÓN 3.BONUS:
+Una vez sabemos como añadir una curiosidad a la array, lo único que tenemos que hacer es comprobar que la array de curiosidades no incluya esta curiosidad. En caso de que la incluyese, tendríamos que volver a llamar a la API, transformar la respuesta y comprobar que esta nueva curiosidad no esté en al array; convenientemente, tenemos una función que hace esto: addFacts. De tal manera que podemos plantear esta función como una función recursiva (es decir, que se llama a sí misma).
+
+El código de la nueva función debería ser algo como: 
+
+```js
+async function addFacts (){
+
+    let url = 'https://catfact.ninja/fact/';
+    let response = await fetch(url);
+    let json= await response.json();
+    let fact= json.fact
+
+    // Si la array no incluye la curiosidad la añade a la array; 
+    if (!factsArray.includes(fact)){
+        factsArray.push(fact)
+    }    
+    // En caso contrario, llama a addFacts para volver a hacer una llamada a la API, etc...
+    else {
+        addFacts()
+    }
+
+    loadFacts()
+}
+```
+
 ## ITERACIÓN 4: 
 
 ```js
