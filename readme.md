@@ -24,7 +24,7 @@ Fortunately there is an API ([you can find it here](http//catfacts.ninja)) that 
 
 It is great to have as many cat facts as possible, but its not that great if there are repeated ones right? So could you please make sure that we never add a repeated cat fact to the list?
 
-![](./images/cat-bonus.png =200x400)
+![](./images/cat-bonus.png =250x)
 
 ### ITINERATION 4:
 
