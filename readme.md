@@ -1,10 +1,10 @@
 # CAT FACTS
 
-Who doesn't like cats uh? However we know very little about them, for example, do you know that they spend 70% of their lives sleeping??? 
+Who doesn't like cats uh? :smile_cat: However we know very little about them, for example, do you know that they spend 70% of their lives sleeping??? 
 
 ![](https://media.giphy.com/media/5aLrlDiJPMPFS/giphy.gif)
 
-That is why we need to create an app where people can get more information about these lovely creatures. So let start right now!!
+This is why we need to create an app for people to get more information about these lovely creatures. So let start right now!!
 
 ### ITINERATION 1:
 
@@ -16,7 +16,7 @@ I know, I know, this might be too much cat information for an average human, may
 
 ### ITERATION 3:
 
-But what about the cat lovers???? we are building this web page so people can get overwhelmed by thousands and thousands of cat facts that they didn't know.
+But what about the cat lovers???? :heart_eyes_cat::heart_eyes_cat: we are building this web page so people can get overwhelmed by thousands and thousands of cat facts that they didn't know.
 
 Fortunately there is an API ([you can find it here](http//catfacts.ninja)) that has that many cat facts. We have provided the basic url for you to make the calls to the API. So now you have everything you need to activate the add cat facts button and start displaying amazing cat facts. 
 
