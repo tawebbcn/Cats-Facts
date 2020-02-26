@@ -1,8 +1,10 @@
 # CAT FACTS
 
-Who doesn't like cats uh? However we know very little about them, for example, do you know that they spent 70% of their lives sleeping??? 
+Who doesn't like cats uh? :smile_cat: However we know very little about them, for example, do you know that they spend 70% of their lives sleeping??? 
 
-That is why we need to create an app where people can get more information about these lovely creatures. So let start right now!!
+![](https://media.giphy.com/media/5aLrlDiJPMPFS/giphy.gif)
+
+This is why we need to create an app for people to get more information about these lovely creatures. So let start right now!!
 
 ### ITINERATION 1:
 
@@ -14,13 +16,15 @@ I know, I know, this might be too much cat information for an average human, may
 
 ### ITERATION 3:
 
-But what about the cat lovers???? we are building this web page so people can get overwhelmed by thousands and thousands of cat facts that they didn't know.
+But what about the cat lovers???? :heart_eyes_cat::heart_eyes_cat: we are building this web page so people can get overwhelmed by thousands and thousands of cat facts that they didn't know.
 
 Fortunately there is an API ([you can find it here](http//catfacts.ninja)) that has that many cat facts. We have provided the basic url for you to make the calls to the API. So now you have everything you need to activate the add cat facts button and start displaying amazing cat facts. 
 
 #### ITERATION 3.BONUS: 
 
 It is great to have as many cat facts as possible, but its not that great if there are repeated ones right? So could you please make sure that we never add a repeated cat fact to the list?
+
+![](./images/cat-bonus.png)
 
 ### ITINERATION 4:
 
@@ -51,5 +55,5 @@ Adding multiple cat facts is awesome, but we don't want them to be repeated. Can
 
 Thank you very much to take the time to make this world a little bit better and more cat-friendly! You can check the answer (except for the itineration 4.2.Bonus) in the folder named solution. 
 
-And please, do not forget to play with the code! :rocket: :dizzi:
+And please, do not forget to play with the code! :rocket: :dizzy:
 
