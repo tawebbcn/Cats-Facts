@@ -2,7 +2,7 @@
 
 Who doesn't like cats uh? However we know very little about them, for example, do you know that they spent 70% of their lives sleeping??? 
 
-![](https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif?cid=790b76119150acc785d8e7f489b756521f7cb703484e2ec3&rid=giphy.gif)
+![](https://media1.tenor.com/images/f1afa1ccba9234361248f2618202b8da/tenor.gif?itemid=5051134)
 
 That is why we need to create an app where people can get more information about these lovely creatures. So let start right now!!
 
